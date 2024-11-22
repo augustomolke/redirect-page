@@ -25,11 +25,7 @@ export default function Home() {
           </Link>
 
           <Link href="https://own-fleet.shps-br-services.com/">
-            <Button>Vou realizar minha primeira entrega</Button>
-          </Link>
-
-          <Link href="https://spx-legacy.netlify.app/">
-            <Button>Já faço entregas</Button>
+            <Button>Já realizo entregas ou vou começar</Button>
           </Link>
         </CardContent>
       </Card>

@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/driver-panel",
-        destination: "https://spx-legacy.netlify.app/",
+        destination: "https://own-fleet.shps-br-services.com/",
         permanent: true,
       },
       {
